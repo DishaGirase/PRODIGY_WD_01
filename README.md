@@ -1,1 +1,2 @@
 # PRODIGY_WD_01
+FlowerZ: A responsive website featuring an interactive navigation menu, touch slider, and device-agnostic design. Built with HTML, CSS, and JavaScript, leveraging tools like Swiper.js, Font Awesome, and Google Fonts. Explore the beauty of flowers with seamless navigation and dynamic content.
